@@ -12,9 +12,7 @@ USE CASES:
 INSPIRATIONS ✭ :
 
 
-I started the project because i had difficulties converting images into bitmaps using available opensources tools 
-and web applications, and when i finally had obtained the bitmap i'd run into more complication; my Arduino IDE took
-time to process the whole bit map array because regardless of what i tried to do whenever i copied and pasted it into 
-my code the orientation of the array would change , from it being length to it being widthwise.
-And because of that i got the idea to develop an application that fixes that issue for me and other developers/engineers/hobbyiest
+I started the project because I faced difficulties when I attempted converting images to their bitmaps using available opensources tools 
+and web applications, and whenever I finally had obtained the bitmap I'd run into more complications, like my Arduino IDE taking an absurd amount of
+time to process the whole bit map array. In short because of that I got the idea to develop an application that fixes that issue for me and for other developers/engineers/hobbyiest alike.
    
